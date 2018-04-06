@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1521138531 source:e:\cbp\vf_test\main.cpp
+	<iostream>
+	<fstream>
+

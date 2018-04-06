@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1521753137 source:e:\cbp\oji2018\tnia_oficial\main.cpp
+	<iostream>
+	<fstream>
+

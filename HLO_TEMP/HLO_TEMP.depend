@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1511986680 source:c:\users\andrásgergely\documents\cbprojects\hlo_temp\main.cpp
+	<iostream>
+	<fstream>
+

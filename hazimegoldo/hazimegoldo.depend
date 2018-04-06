@@ -1,0 +1,8 @@
+# depslib dependency file v1.0
+1510520818 source:c:\users\andrásgergely\documents\cbprojects\hazimegoldo\main.cpp
+	<iostream>
+
+1520883214 source:e:\cbp\hazimegoldo\main.cpp
+	<iostream>
+	<fstream>
+

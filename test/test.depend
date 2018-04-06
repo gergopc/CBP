@@ -1,0 +1,10 @@
+# depslib dependency file v1.0
+1514726137 source:c:\users\andrásgergely\documents\cbprojects\test\main.cpp
+	<iostream>
+	<string.h>
+
+1521059076 source:e:\cbp\test\main.cpp
+	<string>
+	<iostream>
+	<fstream>
+

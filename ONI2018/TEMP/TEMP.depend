@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1522059967 source:e:\cbp\oni2018\temp\main.cpp
+	<iostream>
+	<fstream>
+	<string>
+

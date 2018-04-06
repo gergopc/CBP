@@ -1,0 +1,9 @@
+# depslib dependency file v1.0
+1518638123 source:c:\users\andrásgergely\documents\cbprojects\pbinfo_temp_file\main.cpp
+	<iostream>
+	<fstream>
+
+1522178002 source:e:\cbp\pbinfo_temp_file\main.cpp
+	<iostream>
+	<fstream>
+

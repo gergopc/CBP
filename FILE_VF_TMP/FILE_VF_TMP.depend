@@ -1,0 +1,7 @@
+# depslib dependency file v1.0
+1521031652 source:e:\cbp\file_vf_tmp\main.cpp
+	<fstream>
+	<iostream>
+	<string>
+	<cmath>
+

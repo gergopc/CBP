@@ -1,0 +1,11 @@
+# depslib dependency file v1.0
+1518176083 source:c:\users\andrásgergely\documents\cbprojects\vf_temp_file\main.cpp
+	<fstream>
+	<iostream>
+
+1521137519 source:e:\cbp\vf_temp_file\main.cpp
+	<fstream>
+	<iostream>
+	<string>
+	<cmath>
+
